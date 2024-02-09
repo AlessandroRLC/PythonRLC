@@ -51,6 +51,8 @@ UDTABB = ': "ABB_DRIVE_semplice";'
 
 IntVarDB = ': Int;\n'
 
+Prova = 'Commit PUSH'
+
 
 NomenLivelliMinimo = ['LL','LSL','B1LL','B2LL','B3LL','B4LL']
 
